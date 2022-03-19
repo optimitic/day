@@ -1,2 +1,2 @@
-# day
+# study
 c
